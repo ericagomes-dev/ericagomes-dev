@@ -1,4 +1,5 @@
 ## Hi there 👋
+Desenvolvedora Front-End em formação, focada em criar interfaces responsivas, organizadas e funcionais.
 
 <!--
 **ericagomes-dev/ericagomes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
